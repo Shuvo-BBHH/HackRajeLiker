@@ -27,16 +27,19 @@ def clear():
 def baner():
     clear()
     print(f"""
-        {p}{b}╔═╗╔╗  {d} ┬  ┬┬┌─┌─┐┌─┐┌─┐┬
-        {p}{b}╠╣ ╠╩╗ {d} │  │├┴┐├┤ ├┤ │ ││
-        {p}{b}╚  ╚═╝ {d} ┴─┘┴┴ ┴└─┘└  └─┘┴─┘
+        {p}{b}███╗   ███╗ █████╗ ██╗  ██╗██████╗ ██╗
+        {p}{b}████╗ ████║██╔══██╗██║  ██║██╔══██╗██
+        {p}{b}██╔████╔██║███████║███████║██║  ██║██║
+        {p}{b}█║╚██╔ ╝██║██╔══██║██╔══██║██║  ██║██║
+        {p}{b}██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝██║╚
+        {p}{b}╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝ 
 {ab}-----------------------------------------------
-{d}Donate   : {g}https://saweria.co/FahmiDev
-{d}Message  : {g}https://wa.me/62881024612817
+{d}From   : {g}Bangladesh(Sylhety hacker)
+{d}Message  : {g}https://wa.me/mahdi.80808
 {d}Restapi  : {g}https://ainxbot-id.herokuapp.com
-{d}Youtube  : {g}https://youtube.com/KuhakuTermux
-{d}Github   : {g}https://github.com/Ainx-BOT
-{d}Facebook : {g}https://facebook.com/kang.ngeue.313
+{d}Youtube  : {g}Nai
+{d}Github   : {g}https://github.com/Shuvo-BBHH
+{d}Facebook : {g}https://facebook.com/mahdi.80808
 {ab}-----------------------------------------------""")
 
 def agent():
